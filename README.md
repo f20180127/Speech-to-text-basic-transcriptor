@@ -6,6 +6,6 @@ The transcript is stored in a transcript.txt file based on these chunks.
 
 Please install the following libraries using pip install <library_name> :-
 
-pydub 
-librosa
-SpeechRecognition
+1. pydub
+2. librosa
+3. SpeechRecognition
